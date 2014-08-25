@@ -1,5 +1,8 @@
 Error Manager
-====
+=============
+
+![screenshot](http://itsfoss.itsfoss.netdna-cdn.com/wp-content/uploads/2013/07/error_logo.jpeg)
+
 This is one simple debug class that i made so i can test my code. The way it work's its realy simple, you just incluse and initialize and it create an error handler that properly handle all your error's. It can debug variables or even trigger error's.
 
 ## Functionality's and How it works
